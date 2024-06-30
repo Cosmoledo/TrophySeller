@@ -1,0 +1,5 @@
+author = Cosmoledo
+displayName = Trophy-Seller
+hideCode = false
+hideResources = false
+version = 1.0.0

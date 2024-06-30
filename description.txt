@@ -1,0 +1,7 @@
+Spawns a new NPC to your town.
+When you have placed down a trophy near him, he will sell you items of that boss.
+
+Should also work with mod trophies and bosses.
+Tested with Calamity Mod and Thorium Mod.
+
+Inspired by Bosses As NPCs

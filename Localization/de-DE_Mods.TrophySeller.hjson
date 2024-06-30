@@ -1,0 +1,23 @@
+NPCs: {
+	Seller: {
+		DisplayName: Trophäen-Verkäufer
+		Bestiary: Verkauft Gegenstände basierend auf nahen Trophäen.
+
+		Dialogue: {
+			Trophy: Hi, ich verkaufe aktuell Gegenstände von {0}.
+			NoTrophy: Na du? Platzier eine Trophäe in der Nähe und ich verkaufe dir Gegenstände von diesem Boss.
+			InvalidTrophy: Ich finde keine Gegenstände zu der Trophäe "{0}". Vielleicht dropt der Boss nichts weiteres.
+		}
+
+		TownNPCMood: {
+			Content: Ich bin zufrieden.
+			DislikeCrowded: Mir gefällt nicht, wie beengt es hier ist.
+			FarFromHome: Ich bin zu weit weg von zuhause.
+			HateCrowded: Ich hasse, wie beengt es hier ist.
+			LikeNPC_Princess: Ich mag {NPCName}.
+			LoveSpace: Ich liebe es, so viel Platz zu haben.
+			NoHome: Ich hasse es, kein Zuhause zu haben.
+			Princess_LovesNPC: Ich mag {NPCName}.
+		}
+	}
+}

@@ -1,0 +1,23 @@
+NPCs: {
+	Seller: {
+		DisplayName: Trophy-Seller
+		Bestiary: Sells items based on near boss trophys.
+
+		Dialogue: {
+			Trophy: Hi, I currently sell items of {0}.
+			NoTrophy: Howdy! Place a trophy nearby and I will sell you items of that boss.
+			InvalidTrophy: I don't find any matching items to trophy "{0}". Maybe its boss does not drop more things.
+		}
+
+		TownNPCMood: {
+			Content: I am content.
+			DislikeCrowded: I dislike how crowded I am.
+			FarFromHome: I am too far from home.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			LoveSpace: I love having so much space.
+			NoHome: I hate not having a home.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}
